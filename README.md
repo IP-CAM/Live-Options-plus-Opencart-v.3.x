@@ -1,6 +1,6 @@
 # Live Options+
 
-The Live Options+ extension is for CMS Opencart 3.x. Live price calculation according to selected options or quantity. The equals sign prefix. Option prices proportional to discounts or special prices.
+The Live Options+ extension is for CMS Opencart 3.x. Live price calculation according to selected options or quantity. Equals sign as option prefix. Discounts and special prices for product options. And more...
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
@@ -8,10 +8,10 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 
 ## Features
 * Live price calculation according to selected options or quantity.
-* The equals sign prefix (optional).
-* Option prices proportional to discounts or special prices (optional).
-* Displaying full option price (optional).
-* Adding custom text for free options.
+* Equals sign as option prefix.
+* Discounts and special prices for product options according to the product price changing.
+* Full option price.
+* Custom text for free options (e.g. FREE).
 * Multilingual back-end - EN/UA/RU.
 * Doesn't change original files - OCMOD modification.
 
