@@ -10,7 +10,7 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Live price calculation according to selected options or quantity.
 * Equals sign as option prefix.
 * Discounts and special prices for product options according to the product price changing.
-* Full option price.
+* Full option prices.
 * Custom text for free options (e.g. FREE).
 * Multilingual back-end - EN/UA/RU.
 * Doesn't change original files - OCMOD modification.
