@@ -39,7 +39,7 @@ Definitions
 Live Options+ (the "Software") means the Live Options+ software and
 includes:
 
-1. all its components developed and licensed by Burkatsky Andrii;
+1. all its components developed and licensed by the Licensor;
 2. any revisions, updates and/or upgrades thereto;
 3. anything in any form whatsoever intended to be used with or in
    conjunction with the Live Options+;

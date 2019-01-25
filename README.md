@@ -4,7 +4,7 @@ The Live Options+ extension is for CMS Opencart 3.x. Live price calculation acco
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
-Please feel free to contact me by email <underr.public@gmail.com> or through support form and comments on Opencart Marketplace (see links below).
+Please feel free to contact me by email <underr.public@gmail.com> or through the support form and comments on Opencart Marketplace (see links below).
 
 ## Features
 * Live price calculation according to selected options or quantity.
@@ -13,7 +13,7 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Full option prices.
 * Custom text for free options (e.g. FREE).
 * Multilingual back-end - EN/UA/RU.
-* Doesn't change original files - OCMOD modification.
+* OCMOD - doesn't change original files.
 
 ## Change log
 * v1.0 (2019.01.21):
@@ -39,12 +39,12 @@ Please feel free to contact me by email <underr.public@gmail.com> or through sup
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin Demo](http://demo.ocmod-space.dx.am/admin/index.php?route=extension/module/live_options)
-* [Front Demo](http://demo.ocmod-space.dx.am/)
+* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=extension/module/live_options)
+* [Front Demo](https://oc.underr.thats.im/d1/)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005)
 * [underr.space](https://underr.space/notes/projects/project-014.html)
 
 ## License
-* [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt)
+* [End-user license agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt)
