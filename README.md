@@ -47,4 +47,4 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 * [underr.space](https://underr.space/notes/projects/project-014.html)
 
 ## License
-* [End-user license agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt)
+* [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-live-options-plus/master/EULA.txt)
