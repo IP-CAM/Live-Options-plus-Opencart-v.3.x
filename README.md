@@ -34,13 +34,18 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 ## How to uninstall
 * Make backup
 * Open Admin Panel
+* Admin > Extensions > Extensions > Modules > [underr] Live Options+ > [Uninstall].
 * Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall]
 * Admin > Extensions > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
-## Live demo
-* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=extension/module/live_options)
-* [Front Demo](https://oc.underr.thats.im/d1/)
+## Live demo [Main]
+* [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/live_options)
+* [Front Demo](http://ocmod.freevar.com/oc3020/a)
+
+## Live demo [Alternative]
+* [Admin Demo - Settings](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/module/live_options)
+* [Front Demo](https://oc3020.underr.thats.im/a)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005)
