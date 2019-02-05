@@ -4,7 +4,7 @@ The Live Options+ extension is for CMS Opencart 3.x. Live price calculation acco
 
 The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
 
-Please feel free to contact me by email <underr.public@gmail.com> or through the support form and comments on Opencart Marketplace (see links below).
+Please feel free to contact me through the "GET SUPPORT" form or comments on Opencart Marketplace (see links below).
 
 ## Features
 * Live price calculation according to selected options or quantity.
